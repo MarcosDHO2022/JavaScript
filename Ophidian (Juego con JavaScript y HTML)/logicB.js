@@ -1,3 +1,5 @@
+//En proceso de optimización...
+
 function snake() {
     var myGamePiece;  //La pieza de movimiento y .
     var blueberry;    //Los cuadrados azules que salen, que se supone que tienen que dar puntos.
